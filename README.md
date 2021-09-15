@@ -7,7 +7,7 @@
 <p align="center"> <a href="https://twitter.com/r_merlone" target="blank"><img src="https://img.shields.io/twitter/follow/r_merlone?logo=twitter&style=for-the-badge" alt="r_merlone" /></a> </p>
 
 
-<div style="display: flex">
+<div style="display: flex; justify-content: center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alestori&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="alestori" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alestori&show_icons=true&theme=tokyonight&locale=en" alt="alestori" /></p>
