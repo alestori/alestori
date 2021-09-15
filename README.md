@@ -8,9 +8,9 @@
 
 
 <div style="display: flex; justify-content: center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alestori&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="alestori" /></p>
+<p><img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=alestori&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="alestori" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alestori&show_icons=true&theme=tokyonight&locale=en" alt="alestori" /></p>
+<p>&nbsp;<img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=alestori&show_icons=true&theme=tokyonight&locale=en" alt="alestori" /></p>
 </div>
   
  <h3 align="center">Languages and Tools:</h3>
