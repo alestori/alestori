@@ -10,9 +10,9 @@
 <div style="display: flex; justify-content: center">
   
 <div style="display: flex; justify-content: center" width="100%">
-<p><img align="center" height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=alestori&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="alestori" /></p>
+<p><img align="center" height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=alestori&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="alestori" /></p>
 
-<p>&nbsp;<img align="center" height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=alestori&show_icons=true&theme=tokyonight&locale=en" alt="alestori" /></p>
+<p>&nbsp;<img align="center" height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=alestori&show_icons=true&theme=tokyonight&locale=en" alt="alestori" /></p>
 </div>
 </div>
   
