@@ -2,7 +2,7 @@
 <h3 align="center">A frontend developer from Rio de Janeiro, Brazil</h3>
 
 <div style="display: flex" align="center">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=alestori&label=Profile%20views&color=0e75b6&style=flat" alt="alestori" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=merlonedev&label=Profile%20views&color=0e75b6&style=flat" alt="alestori" /> </p>
 
 <p align="center"> <a href="https://twitter.com/r_merlone" target="blank"><img src="https://img.shields.io/twitter/follow/r_merlone?logo=twitter&style=for-the-badge" alt="r_merlone" /></a> </p>
 
@@ -10,9 +10,9 @@
 <div style="display: flex; justify-content: center">
   
 <div style="display: flex; justify-content: center" width="100%">
-<p><img align="center" height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=alestori&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="alestori" /></p>
+<p><img align="center" height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=merlonedev&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="merlonedev" /></p>
 
-<p>&nbsp;<img align="center" height="180em" width="100%" src="https://github-readme-stats.vercel.app/api?username=alestori&show_icons=true&theme=tokyonight&locale=en" alt="alestori" /></p>
+<p>&nbsp;<img align="center" height="180em" width="100%" src="https://github-readme-stats.vercel.app/api?username=merlonedev&show_icons=true&theme=tokyonight&locale=en" alt="merlonedev" /></p>
 </div>
 </div>
   
