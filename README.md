@@ -1,5 +1,9 @@
 <h1 align="center">Hello, there! My name is Rodrigo Merlone</h1>
-<h3 align="center">A frontend developer from Rio de Janeiro, Brazil</h3>
+<h3 align="center">A developer from Rio de Janeiro, Brazil</h3>
+
+<div style="display: flex" align="center">
+<p>Currently learning Game Programming in Unity!</p>
+</div>
 
 <div style="display: flex" align="center">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=merlonedev&label=Profile%20views&color=0e75b6&style=flat" alt="merlonedev" /> </p>
